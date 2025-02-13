@@ -1,10 +1,9 @@
-# 💫 About Me:
-💻 I'm currently working on improving my programming skills through hands-on projects in Python, C++, JavaScript, and web development.<br>
-<br>🤝 I'm looking to collaborate on open-source projects, internships, and innovative software solutions that combine technology, business, and AI.<br>
-<br>❓ I'm looking for help with best practices in software development, optimizing code efficiency, and real-world applications of AI in business.<br>
-<br>📚 I'm currently learning advanced Python concepts, algorithms, databases, software testing, and web development to build scalable and efficient solutions.<br>
-<br>🎯 Fun fact: My background in economics and finance gives me a unique perspective on how technology can drive business growth and investment strategies.
-
+# 👋 Hi, I'm Teosveta!
+💻 I’m a passionate Software Developer, eager to build innovative and efficient solutions that solve real-world problems.<br>
+<br>🎓 Currently, I’m studying Informatics at New Bulgarian University, expanding my expertise in programming, databases, and algorithms.<br>
+<br>🚀 I’m excited to grow in a real work environment, where I can apply my skills, collaborate with experienced developers, and learn industry best practices.<br>
+<br>📚 Right now, I’m learning advanced Python, algorithms, databases, software testing, and web development to create scalable and efficient solutions.<br>
+<br>🎯 Fun fact: My background in economics and finance gives me a unique perspective on how technology can drive business growth and smart investments.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teosveta-velkova/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vteosveta@gmail.com) 
