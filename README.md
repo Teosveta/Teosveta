@@ -1,34 +1,38 @@
-👋 Hi, I'm Thea (@Teosveta)
-🚀 Aspiring Software Engineer & Entrepreneur | 💡 Innovator in Tech & Business
+# 💫 About Me:
+💻 I'm currently working on improving my programming skills through hands-on projects in Python, C++, JavaScript, and web development.<br>
+<br>🤝 I'm looking to collaborate on open-source projects, internships, and innovative software solutions that combine technology, business, and AI.<br>
+<br>❓ I'm looking for help with best practices in software development, optimizing code efficiency, and real-world applications of AI in business.<br>
+<br>📚 I'm currently learning advanced Python concepts, algorithms, databases, software testing, and web development to build scalable and efficient solutions.<br>
+<br>🎯 Fun fact: My background in economics and finance gives me a unique perspective on how technology can drive business growth and investment strategies.
 
-👀 About Me
-I am passionate about programming, informatics, entrepreneurship, investments, and personal development. With a background in economics and finance, I strive to bridge the gap between technology and business.
 
-🎓 Currently Learning
-Computer Science & Algorithms – Strengthening my problem-solving and analytical thinking.
-Python, C++, JavaScript & Web Development – Building real-world projects.
-Databases & Software Testing – Enhancing my backend knowledge.
-Entrepreneurship & AI Integration – Exploring AI-driven business models.
-💻 Tech & Projects
-🔹 Languages & Tools: Python, C++, JavaScript, HTML, CSS, SQL
-🔹 Projects:
-📌 Black Jack (Python) | 🎮 Minesweeper (C++)
-📊 Sales & Student Management Systems (Python + Databases)
-✅ Unit Testing (Python & JavaScript)
-📝 To-Do List (C++) | 🔢 Calculator (Web)
-🤝 Looking to Collaborate On
-Innovative technology projects & AI-driven solutions
-Business automation & financial tech ideas
-Open-source contributions & startup ventures
-📫 Get in Touch
-📩 Email: vteosveta@gmail.com
-💼 LinkedIn: [Your LinkedIn Profile]
-🔗 Portfolio: [Your Website/Portfolio (if available)]
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teosveta-velkova/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vteosveta@gmail.com) 
 
-⚡ Fun Fact
-Beyond coding and business, I stay active with cheerleading, yoga, and holistic wellness, believing in the perfect balance of mind, body, and tech!
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Teosveta&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Teosveta&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Teosveta&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!---
-Teosveta/Teosveta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Teosveta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Teosveta&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
